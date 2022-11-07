@@ -27,7 +27,7 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
-#include <new.h>
+#include <new>
 enum ESlabOverlapFlag
 {
 	SLABOVERLAP_Cross = 1,
