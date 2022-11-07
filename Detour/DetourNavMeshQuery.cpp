@@ -27,7 +27,7 @@
 #include <string.h>
 #include <math.h>
 #include <assert.h>
-#include <new.h>
+#include <new>
 
 // DEFINE_LOG_CATEGORY_STATIC(LogDebugRaycastCrash, All, All);
 
